@@ -1,0 +1,13 @@
+﻿  main.cpp
+c:\users\story\documents\visual studio 2017\projects\lifesimulator\lifesimulator\main.cpp(151): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\story\documents\visual studio 2017\projects\lifesimulator\lifesimulator\main.cpp(154): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\story\documents\visual studio 2017\projects\lifesimulator\lifesimulator\main.cpp(250): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\story\documents\visual studio 2017\projects\lifesimulator\lifesimulator\main.cpp(252): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\story\documents\visual studio 2017\projects\lifesimulator\lifesimulator\main.cpp(254): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\story\documents\visual studio 2017\projects\lifesimulator\lifesimulator\main.cpp(307): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\story\documents\visual studio 2017\projects\lifesimulator\lifesimulator\main.cpp(309): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\story\documents\visual studio 2017\projects\lifesimulator\lifesimulator\main.cpp(311): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\story\documents\visual studio 2017\projects\lifesimulator\lifesimulator\main.cpp(851): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\story\documents\visual studio 2017\projects\lifesimulator\lifesimulator\main.cpp(852): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+  LifeSimulator.vcxproj -> C:\Users\Story\Documents\Visual Studio 2017\Projects\LifeSimulator\Debug\LifeSimulator.exe
+  LifeSimulator.vcxproj -> C:\Users\Story\Documents\Visual Studio 2017\Projects\LifeSimulator\Debug\LifeSimulator.pdb (Partial PDB)
